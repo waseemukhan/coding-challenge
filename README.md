@@ -2,7 +2,11 @@
 
 ## Description
 
+User info application using tech stacks:
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Prisma
+Mysql
+Angular
 
 ## Installation
 
